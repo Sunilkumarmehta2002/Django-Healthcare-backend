@@ -173,5 +173,5 @@ All API endpoints are prefixed with `/api/`.
 
 ### 👀 Project Views
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.healthcare-backend)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.django-healthcare-backend)
 
