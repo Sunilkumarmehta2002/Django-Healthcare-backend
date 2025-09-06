@@ -168,3 +168,10 @@ All API endpoints are prefixed with `/api/`.
    ```
 4. **Test Endpoints** → Add patients, doctors, and assign mappings.
 5. **Error Handling** → API returns clear error messages and HTTP status codes.
+
+   ---
+
+### 👀 Project Views
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.healthcare-backend)
+
